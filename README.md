@@ -1,6 +1,8 @@
 # SpreeProductMd
 
-Introduction goes here.
+[![Build Status](https://travis-ci.com/machiyami/spree_product_md.svg?branch=master)](https://travis-ci.com/machiyami/spree_product_md)
+
+Write your production description in markdown.
 
 ## Installation
 
@@ -48,4 +50,4 @@ If you'd like to contribute, please take a look at the
 [instructions](CONTRIBUTING.md) for installing dependencies and crafting a good
 pull request.
 
-Copyright (c) 2020 [name of extension creator], released under the New BSD License
+Copyright (c) 2020 [Machiyami](https://machiyami.com), released under the New BSD License
