@@ -1,0 +1,7 @@
+<div data-hook="admin_product_form_markdown_description">
+  <%= f.field_container :markdown_description, class: ['form-group'] do %>
+    <%= f.label :markdown_description %>
+    <%= f.text_area :markdown_description, { rows: "#{unless @product.has_variants? then '20' else '13' end}", class: 'form-control', placeholder: 'Product description in markdown' } %>
+    <%= f.error_message_on :markdown_description %>
+  <% end %>
+</div>

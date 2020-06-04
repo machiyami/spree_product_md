@@ -7,7 +7,7 @@ Introduction goes here.
 1. Add this extension to your Gemfile with this line:
 
     ```ruby
-    gem 'spree_product_md', github: '[your-github-handle]/spree_product_md'
+    gem 'spree_product_md', github: 'machiyami/spree_product_md'
     ```
 
 2. Install the gem using Bundler
